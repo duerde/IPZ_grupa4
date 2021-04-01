@@ -7,6 +7,14 @@
     android:layout_height="match_parent">
 
     <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="155dp"
+        android:layout_height="299dp"
+        app:srcCompat="@drawable/lisc"
+        tools:layout_editor_absoluteX="205dp"
+        tools:layout_editor_absoluteY="349dp" />
+
+    <ImageView
         android:id="@+id/imageView"
         android:layout_width="155dp"
         android:layout_height="299dp"
